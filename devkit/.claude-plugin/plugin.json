@@ -1,0 +1,11 @@
+{
+  "name": "devkit",
+  "version": "1.0.0",
+  "description": "A curated, conflict-free skill set for building a software system from zero: one skill per lifecycle stage, selected from obra/superpowers, addyosmani/agent-skills, mattpocock/skills and anthropics/skills.",
+  "author": {
+    "name": "jingzhong.zhang"
+  },
+  "license": "MIT AND Apache-2.0",
+  "keywords": ["greenfield", "lifecycle", "tdd", "planning", "debugging", "shipping"],
+  "skills": "./skills"
+}
